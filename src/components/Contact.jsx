@@ -6,12 +6,11 @@ import { MdAttachEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
 //import { useInfo } from "@/context/infoContext";
 //import { FormData } from "@/types";
-import { Label } from "./ui/Label";
-import { Input } from "./ui/Input";
+import { Label } from "./ui/label";
+import { Input } from "./ui/input";
 import { cn } from "@/lib/utils";
 //import { supabase } from "@/utils/supebase/client";
 import CustomTitle from "./CustomTitle";
-import { ImageHero } from "./ImageHero";
 import { glowEffect } from "@/helper/styles";
 
 const BottomGradient = () => (

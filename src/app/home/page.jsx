@@ -8,7 +8,6 @@ import ProfileSection from "@/components/ProfileSection";
 import { TypewriterEffectDemo } from "@/components/TypeWriterEffect";
 import UserReviewForm from "@/components/UserReviewForm"; // Import the new component
 //import SuccessStories from '@/components/SuccessStories';
-import { VideoBackgroundHero } from "@/components/VideoBackgroundHero";
 import { AboutLalith } from "@/components/ui/AboutLalith";
 
 const testimonials = [

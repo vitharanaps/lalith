@@ -1,4 +1,3 @@
-// src/components/ui/label.jsx
 
 "use client";
 
