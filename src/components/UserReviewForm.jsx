@@ -9,8 +9,8 @@ import { useState } from "react";
 import Swal from "sweetalert2";
 
 // Import Custom Components
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
+import { Input } from "@/components/ui/Input";
+import { Label } from "@/components/ui/Label";
 
 // Import utility functions
 import { cn } from "@/lib/utils";
