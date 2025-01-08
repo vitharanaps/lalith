@@ -48,7 +48,6 @@ const HomePage = () => {
       {/* <SuccessStories /> */}
       <InfiniteMovingCardsDemo />
       <Contact />
-      {/* <UserReviewForm /> */}
     </div>
   );
 };
