@@ -6,8 +6,9 @@ import { MdAttachEmail } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
 //import { useInfo } from "@/context/infoContext";
 //import { FormData } from "@/types";
-import  {Label}  from "./ui/Label";
-import {Input}  from "./ui/Input";
+
+import { Input } from "@/components/ui/input";
+import {Input}  from "@/components/ui/Input";
 import { cn } from "@/lib/utils";
 //import { supabase } from "@/utils/supebase/client";
 import CustomTitle from "./CustomTitle";
